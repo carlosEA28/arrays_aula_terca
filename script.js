@@ -24,6 +24,7 @@ const timao = [
         },
         Gremio: {
           goleiro: "Thiago Volpi",
+          Técnico: "Quinteiros",
         },
       },
     },
